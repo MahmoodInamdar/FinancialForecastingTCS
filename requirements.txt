@@ -1,0 +1,45 @@
+# Jupyter Environment Dependencies
+jupyter
+jupyterlab
+ipywidgets
+
+# Core ML & AI Frameworks
+transformers
+torch
+torchvision
+sentence-transformers
+
+# Document Processing
+PyPDF2
+pdfplumber
+python-docx
+
+# Data Science & Visualization
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+
+# API & Web
+requests
+beautifulsoup4
+aiohttp
+
+# Database
+pymysql
+chromadb
+
+# LangChain & LangGraph
+langchain
+langgraph
+langchain-community
+
+# HuggingFace
+datasets
+accelerate
+
+# Utilities
+python-dotenv
+tqdm
+typing-extensions
