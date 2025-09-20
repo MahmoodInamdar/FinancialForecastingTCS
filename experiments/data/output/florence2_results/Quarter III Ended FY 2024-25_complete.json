@@ -1,0 +1,77 @@
+{
+  "document": "Quarter III Ended FY 2024-25",
+  "pages_processed": [
+    {
+      "success": true,
+      "page_number": 2,
+      "image_size": [
+        2000,
+        1125
+      ],
+      "results": {
+        "performance_highlights": {
+          "raw_response": "Error during extraction: Task token <MORE_DETAILED_CAPTION> should be the only token in the text.",
+          "task": "detailed_caption",
+          "prompt": "Extract all financial metrics from this TCS quarterly performance highlights page. Look for Revenue (INR/USD), Growth rates (YoY, CC), Margins (Operating, Net), Cash flow, Headcount, Attrition, Order book TCV, Client metrics.",
+          "parsed_metrics": {}
+        },
+        "full_ocr": {
+          "raw_response": "Error during extraction: 'NoneType' object has no attribute 'shape'",
+          "task": "ocr",
+          "prompt": "",
+          "parsed_ocr": {}
+        }
+      }
+    },
+    {
+      "success": true,
+      "page_number": 3,
+      "image_size": [
+        2000,
+        1125
+      ],
+      "results": {
+        "growth_summary": {
+          "raw_response": "Error during extraction: Task token <MORE_DETAILED_CAPTION> should be the only token in the text.",
+          "task": "detailed_caption",
+          "prompt": "This is a financial growth summary chart. Extract quarterly data: quarters, revenue values, operating income, net income, growth percentages, margins.",
+          "parsed_metrics": {}
+        },
+        "full_ocr": {
+          "raw_response": "Error during extraction: 'NoneType' object has no attribute 'shape'",
+          "task": "ocr",
+          "prompt": "",
+          "parsed_ocr": {}
+        }
+      }
+    },
+    {
+      "success": true,
+      "page_number": 4,
+      "image_size": [
+        2000,
+        1125
+      ],
+      "results": {
+        "document_analysis": {
+          "raw_response": "Error during extraction: Task token <MORE_DETAILED_CAPTION> should be the only token in the text.",
+          "task": "detailed_caption",
+          "prompt": "Analyze this financial document page and extract any tables, charts, or key metrics.",
+          "parsed_table": [
+            {
+              "raw_text": "Error during extraction: Task token <MORE_DETAILED_CAPTION> should be the only token in the text."
+            }
+          ]
+        },
+        "full_ocr": {
+          "raw_response": "Error during extraction: 'NoneType' object has no attribute 'shape'",
+          "task": "ocr",
+          "prompt": "",
+          "parsed_ocr": {}
+        }
+      }
+    }
+  ],
+  "summary_metrics": {},
+  "extraction_date": "2025-09-20T16:20:40.105430"
+}

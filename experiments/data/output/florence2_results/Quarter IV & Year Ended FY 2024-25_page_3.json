@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "page_number": 3,
+  "image_size": [
+    2000,
+    1125
+  ],
+  "results": {
+    "growth_summary": {
+      "raw_response": "Error during extraction: Task token <MORE_DETAILED_CAPTION> should be the only token in the text.",
+      "task": "detailed_caption",
+      "prompt": "This is a financial growth summary chart. Extract quarterly data: quarters, revenue values, operating income, net income, growth percentages, margins.",
+      "parsed_metrics": {}
+    },
+    "full_ocr": {
+      "raw_response": "Error during extraction: 'NoneType' object has no attribute 'shape'",
+      "task": "ocr",
+      "prompt": "",
+      "parsed_ocr": {}
+    }
+  }
+}

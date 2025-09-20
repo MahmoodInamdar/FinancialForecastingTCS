@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "page_number": 4,
+  "image_size": [
+    2000,
+    1125
+  ],
+  "results": {
+    "document_analysis": {
+      "raw_response": "Error during extraction: Task token <MORE_DETAILED_CAPTION> should be the only token in the text.",
+      "task": "detailed_caption",
+      "prompt": "Analyze this financial document page and extract any tables, charts, or key metrics.",
+      "parsed_table": [
+        {
+          "raw_text": "Error during extraction: Task token <MORE_DETAILED_CAPTION> should be the only token in the text."
+        }
+      ]
+    },
+    "full_ocr": {
+      "raw_response": "Error during extraction: 'NoneType' object has no attribute 'shape'",
+      "task": "ocr",
+      "prompt": "",
+      "parsed_ocr": {}
+    }
+  }
+}

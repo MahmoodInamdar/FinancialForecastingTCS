@@ -1,0 +1,962 @@
+{
+  "filename": "Quarter I Ended FY 2025-26.pdf",
+  "document_id": "Quarter_I_Ended_FY_2025-26",
+  "file_path": "data/pdfs/Quarter I Ended FY 2025-26.pdf",
+  "file_size_mb": 0.43,
+  "extracted_text": "\n\n       ΤΑΤΛ \n       CONSULTANCY \ntos SERVICES \n\n                                                                                     TATA \n\nTCS Financial Results \n\nQuarter Ended FY 2025-26 \n\nJuly 10, 2025 \n<<<PAGE>>>\f\n\n Disclaimer \n\n Certain statements in this release concerning our future prospects are forward-looking statements. Forward-looking statements by \n their nature involve a number of risks and uncertainties that could cause actual results to differ materially from market \n expectations. These risks and uncertainties include, but are not limited to, our ability to manage growth, intense competition \n among global IT services companies, various factors which may affect our profitability, such as wage increases or an appreciating \n Rupee, our ability to attract and retain highly skilled professionals, time and cost overruns on fixed-price, fixed-time frame \n contracts, liability for damages on our service contracts, client concentration, our ability to manage our internationa\n...[truncated]...\n",
+  "full_text_length": 26650,
+  "pages_processed": 0,
+  "total_pages": 0,
+  "extraction_metadata": {
+    "0": {
+      "font_info": {
+        "average_char_height": 69.74020275056706,
+        "average_char_width": 38.959480632944015,
+        "std_dev_char_height": 30.671638459267534,
+        "std_dev_char_width": 16.6819805506191
+      },
+      "line_count": 14,
+      "line_end": 15,
+      "line_start": 1,
+      "page_number": 0,
+      "potential_subtitles": [
+        {
+          "page": 0,
+          "position": 4,
+          "section_length": 2,
+          "text": "tos"
+        },
+        {
+          "page": 0,
+          "position": 8,
+          "section_length": 2,
+          "text": "TCS Financial Results"
+        }
+      ]
+    },
+    "1": {
+      "font_info": {
+        "average_char_height": 65.8946211692201,
+        "average_char_width": 28.49519292398342,
+        "std_dev_char_height": 5.334767012349634,
+        "std_dev_char_width": 4.287910387573254
+      },
+      "line_count": 25,
+      "line_end": 41,
+      "line_start": 16,
+      "page_number": 1,
+      "potential_subtitles": [
+        {
+          "page": 1,
+          "position": 2,
+          "section_length": 19,
+          "text": "Disclaimer"
+        },
+        {
+          "page": 1,
+          "position": 23,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "10": {
+      "font_info": {
+        "average_char_height": 67.15037854358498,
+        "average_char_width": 35.00231117650298,
+        "std_dev_char_height": 15.601107273236375,
+        "std_dev_char_width": 9.730006265903686
+      },
+      "line_count": 27,
+      "line_end": 280,
+      "line_start": 253,
+      "page_number": 10,
+      "potential_subtitles": [
+        {
+          "page": 10,
+          "position": 2,
+          "section_length": 1,
+          "text": "Total Employee Base"
+        },
+        {
+          "page": 10,
+          "position": 4,
+          "section_length": 2,
+          "text": "Attrition *:"
+        },
+        {
+          "page": 10,
+          "position": 7,
+          "section_length": 6,
+          "text": "Diversity:"
+        },
+        {
+          "page": 10,
+          "position": 15,
+          "section_length": 6,
+          "text": "Talent Development:"
+        },
+        {
+          "page": 10,
+          "position": 25,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "11": {
+      "font_info": {
+        "average_char_height": 80.42138792320434,
+        "average_char_width": 50.09398083282071,
+        "std_dev_char_height": 47.516228881772555,
+        "std_dev_char_width": 22.597772836640267
+      },
+      "line_count": 8,
+      "line_end": 289,
+      "line_start": 281,
+      "page_number": 11,
+      "potential_subtitles": [
+        {
+          "page": 11,
+          "position": 4,
+          "section_length": 1,
+          "text": "tos"
+        },
+        {
+          "page": 11,
+          "position": 7,
+          "section_length": 0,
+          "text": "Annexure"
+        }
+      ]
+    },
+    "12": {
+      "font_info": {
+        "average_char_height": 53.13265306122449,
+        "average_char_width": 29.5986504991607,
+        "std_dev_char_height": 10.776112990275644,
+        "std_dev_char_width": 6.753787361705517
+      },
+      "line_count": 32,
+      "line_end": 322,
+      "line_start": 290,
+      "page_number": 12,
+      "potential_subtitles": [
+        {
+          "page": 12,
+          "position": 2,
+          "section_length": 7,
+          "text": "IFRS Income Statement"
+        },
+        {
+          "page": 12,
+          "position": 14,
+          "section_length": 11,
+          "text": "SG"
+        },
+        {
+          "page": 12,
+          "position": 30,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "13": {
+      "font_info": {
+        "average_char_height": 44.0881647579033,
+        "average_char_width": 23.1600305887313,
+        "std_dev_char_height": 11.706996517521853,
+        "std_dev_char_width": 7.842745239310161
+      },
+      "line_count": 45,
+      "line_end": 368,
+      "line_start": 323,
+      "page_number": 13,
+      "potential_subtitles": [
+        {
+          "page": 13,
+          "position": 2,
+          "section_length": 4,
+          "text": "COR - SG&A Details"
+        },
+        {
+          "page": 13,
+          "position": 8,
+          "section_length": 3,
+          "text": "Employee"
+        },
+        {
+          "page": 13,
+          "position": 13,
+          "section_length": 1,
+          "text": "Facility expenses"
+        },
+        {
+          "page": 13,
+          "position": 14,
+          "section_length": 1,
+          "text": "Depreciation"
+        },
+        {
+          "page": 13,
+          "position": 16,
+          "section_length": 13,
+          "text": "Travel"
+        },
+        {
+          "page": 13,
+          "position": 36,
+          "section_length": 2,
+          "text": "Provision for Doubtful Debts"
+        },
+        {
+          "page": 13,
+          "position": 39,
+          "section_length": 0,
+          "text": "S G & A"
+        },
+        {
+          "page": 13,
+          "position": 39,
+          "section_length": 3,
+          "text": "14.67"
+        },
+        {
+          "page": 13,
+          "position": 43,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "14": {
+      "font_info": {
+        "average_char_height": 67.63636363636364,
+        "average_char_width": 35.5119375573921,
+        "std_dev_char_height": 13.542343423438032,
+        "std_dev_char_width": 9.358713876488853
+      },
+      "line_count": 23,
+      "line_end": 392,
+      "line_start": 369,
+      "page_number": 14,
+      "potential_subtitles": [
+        {
+          "page": 14,
+          "position": 2,
+          "section_length": 3,
+          "text": "Cash Flow Summary"
+        },
+        {
+          "page": 14,
+          "position": 8,
+          "section_length": 7,
+          "text": "Capital"
+        },
+        {
+          "page": 14,
+          "position": 21,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "15": {
+      "font_info": {
+        "average_char_height": 41.4390243902439,
+        "average_char_width": 20.58032177849251,
+        "std_dev_char_height": 15.290033484820828,
+        "std_dev_char_width": 8.607775084757174
+      },
+      "line_count": 45,
+      "line_end": 438,
+      "line_start": 393,
+      "page_number": 15,
+      "potential_subtitles": [
+        {
+          "page": 15,
+          "position": 2,
+          "section_length": 5,
+          "text": "IFRS Statement of Financial Position"
+        },
+        {
+          "page": 15,
+          "position": 10,
+          "section_length": 1,
+          "text": "Property and equipment"
+        },
+        {
+          "page": 15,
+          "position": 12,
+          "section_length": 1,
+          "text": "Right-of-use"
+        },
+        {
+          "page": 15,
+          "position": 14,
+          "section_length": 7,
+          "text": "Intangible"
+        },
+        {
+          "page": 15,
+          "position": 28,
+          "section_length": 9,
+          "text": "Liabilities"
+        },
+        {
+          "page": 15,
+          "position": 43,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "16": {
+      "font_info": {
+        "average_char_height": 52.264977582286896,
+        "average_char_width": 28.524143594486002,
+        "std_dev_char_height": 12.102116131715732,
+        "std_dev_char_width": 7.573831526912222
+      },
+      "line_count": 32,
+      "line_end": 471,
+      "line_start": 439,
+      "page_number": 16,
+      "potential_subtitles": [
+        {
+          "page": 16,
+          "position": 2,
+          "section_length": 6,
+          "text": "IFRS Income Statement - In USD"
+        },
+        {
+          "page": 16,
+          "position": 12,
+          "section_length": 1,
+          "text": "Gross"
+        },
+        {
+          "page": 16,
+          "position": 14,
+          "section_length": 1,
+          "text": "SG &"
+        },
+        {
+          "page": 16,
+          "position": 15,
+          "section_length": 7,
+          "text": "Operating"
+        },
+        {
+          "page": 16,
+          "position": 26,
+          "section_length": 3,
+          "text": "Earnings per share in $"
+        },
+        {
+          "page": 16,
+          "position": 30,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "17": {
+      "font_info": {
+        "average_char_height": 44.135783100415836,
+        "average_char_width": 24.094982059234653,
+        "std_dev_char_height": 13.252078301766367,
+        "std_dev_char_width": 8.697883290196259
+      },
+      "line_count": 43,
+      "line_end": 515,
+      "line_start": 472,
+      "page_number": 17,
+      "potential_subtitles": [
+        {
+          "page": 17,
+          "position": 2,
+          "section_length": 9,
+          "text": "COR - SG&A Details - In USD"
+        },
+        {
+          "page": 17,
+          "position": 15,
+          "section_length": 0,
+          "text": "71"
+        },
+        {
+          "page": 17,
+          "position": 15,
+          "section_length": 9,
+          "text": "0.98"
+        },
+        {
+          "page": 17,
+          "position": 29,
+          "section_length": 6,
+          "text": "0.51"
+        },
+        {
+          "page": 17,
+          "position": 38,
+          "section_length": 3,
+          "text": "SG&A"
+        },
+        {
+          "page": 17,
+          "position": 41,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "18": {
+      "font_info": {
+        "average_char_height": 43.54320987654321,
+        "average_char_width": 22.402318832439313,
+        "std_dev_char_height": 15.966952362030366,
+        "std_dev_char_width": 9.164516102243248
+      },
+      "line_count": 45,
+      "line_end": 561,
+      "line_start": 516,
+      "page_number": 18,
+      "potential_subtitles": [
+        {
+          "page": 18,
+          "position": 2,
+          "section_length": 5,
+          "text": "IFRS Statement of Financial Position in USD"
+        },
+        {
+          "page": 18,
+          "position": 10,
+          "section_length": 7,
+          "text": "Property and"
+        },
+        {
+          "page": 18,
+          "position": 24,
+          "section_length": 11,
+          "text": "Other"
+        },
+        {
+          "page": 18,
+          "position": 43,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "19": {
+      "font_info": {
+        "average_char_height": 50.57260374174982,
+        "average_char_width": 26.329033797865968,
+        "std_dev_char_height": 11.328881789066132,
+        "std_dev_char_width": 7.648688237143131
+      },
+      "line_count": 33,
+      "line_end": 595,
+      "line_start": 562,
+      "page_number": 19,
+      "potential_subtitles": [
+        {
+          "page": 19,
+          "position": 2,
+          "section_length": 4,
+          "text": "Ind AS Income Statement - Consolidated"
+        },
+        {
+          "page": 19,
+          "position": 8,
+          "section_length": 3,
+          "text": "63,437"
+        },
+        {
+          "page": 19,
+          "position": 12,
+          "section_length": 2,
+          "text": "b) Cost of"
+        },
+        {
+          "page": 19,
+          "position": 14,
+          "section_length": 1,
+          "text": "d)"
+        },
+        {
+          "page": 19,
+          "position": 15,
+          "section_length": 0,
+          "text": "Total"
+        },
+        {
+          "page": 19,
+          "position": 15,
+          "section_length": 5,
+          "text": "75.54"
+        },
+        {
+          "page": 19,
+          "position": 23,
+          "section_length": 2,
+          "text": "20.21"
+        },
+        {
+          "page": 19,
+          "position": 26,
+          "section_length": 3,
+          "text": "Net Profit"
+        },
+        {
+          "page": 19,
+          "position": 31,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "2": {
+      "font_info": {
+        "average_char_height": 58.74074074074074,
+        "average_char_width": 27.416491917868065,
+        "std_dev_char_height": 11.134937903071718,
+        "std_dev_char_width": 7.782080208307394
+      },
+      "line_count": 29,
+      "line_end": 71,
+      "line_start": 42,
+      "page_number": 2,
+      "potential_subtitles": [
+        {
+          "page": 2,
+          "position": 2,
+          "section_length": 17,
+          "text": "Q1 FY26 Performance Highlights"
+        },
+        {
+          "page": 2,
+          "position": 27,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "20": {
+      "font_info": {
+        "average_char_height": 47.1219512195122,
+        "average_char_width": 23.766044129899555,
+        "std_dev_char_height": 14.804759758303176,
+        "std_dev_char_width": 8.552333176284622
+      },
+      "line_count": 45,
+      "line_end": 641,
+      "line_start": 596,
+      "page_number": 20,
+      "potential_subtitles": [
+        {
+          "page": 20,
+          "position": 2,
+          "section_length": 5,
+          "text": "Ind AS Balance Sheet - Consolidated"
+        },
+        {
+          "page": 20,
+          "position": 10,
+          "section_length": 5,
+          "text": "Property and equipment"
+        },
+        {
+          "page": 20,
+          "position": 20,
+          "section_length": 13,
+          "text": "Invested Funds"
+        },
+        {
+          "page": 20,
+          "position": 43,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "3": {
+      "font_info": {
+        "average_char_height": 41.93913043478261,
+        "average_char_width": 27.01686064909749,
+        "std_dev_char_height": 17.836835593792976,
+        "std_dev_char_width": 9.788605524590533
+      },
+      "line_count": 40,
+      "line_end": 112,
+      "line_start": 72,
+      "page_number": 3,
+      "potential_subtitles": [
+        {
+          "page": 3,
+          "position": 2,
+          "section_length": 1,
+          "text": "Growth Summary (INR)"
+        },
+        {
+          "page": 3,
+          "position": 4,
+          "section_length": 3,
+          "text": "Revenue"
+        },
+        {
+          "page": 3,
+          "position": 8,
+          "section_length": 7,
+          "text": "5.4%"
+        },
+        {
+          "page": 3,
+          "position": 17,
+          "section_length": 0,
+          "text": "Operating Income"
+        },
+        {
+          "page": 3,
+          "position": 17,
+          "section_length": 1,
+          "text": "Operating margin (%)"
+        },
+        {
+          "page": 3,
+          "position": 19,
+          "section_length": 5,
+          "text": "154,420"
+        },
+        {
+          "page": 3,
+          "position": 26,
+          "section_length": 9,
+          "text": "Net Income"
+        },
+        {
+          "page": 3,
+          "position": 38,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "4": {
+      "font_info": {
+        "average_char_height": 42.973684210526315,
+        "average_char_width": 27.104065403407507,
+        "std_dev_char_height": 16.99260719464768,
+        "std_dev_char_width": 9.145038906575055
+      },
+      "line_count": 37,
+      "line_end": 150,
+      "line_start": 113,
+      "page_number": 4,
+      "potential_subtitles": [
+        {
+          "page": 4,
+          "position": 2,
+          "section_length": 1,
+          "text": "Growth Summary (USD)"
+        },
+        {
+          "page": 4,
+          "position": 4,
+          "section_length": 2,
+          "text": "Revenue"
+        },
+        {
+          "page": 4,
+          "position": 6,
+          "section_length": 7,
+          "text": "7,465"
+        },
+        {
+          "page": 4,
+          "position": 14,
+          "section_length": 0,
+          "text": "Operating Income"
+        },
+        {
+          "page": 4,
+          "position": 14,
+          "section_length": 6,
+          "text": "Operating margin (%)"
+        },
+        {
+          "page": 4,
+          "position": 22,
+          "section_length": 1,
+          "text": "Q1 FY25"
+        },
+        {
+          "page": 4,
+          "position": 24,
+          "section_length": 0,
+          "text": "Net Income"
+        },
+        {
+          "page": 4,
+          "position": 24,
+          "section_length": 8,
+          "text": "Net margin (%)"
+        },
+        {
+          "page": 4,
+          "position": 35,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "5": {
+      "font_info": {
+        "average_char_height": 80.9498589262236,
+        "average_char_width": 47.900495648480955,
+        "std_dev_char_height": 42.926761490940734,
+        "std_dev_char_width": 19.301921435274203
+      },
+      "line_count": 8,
+      "line_end": 159,
+      "line_start": 151,
+      "page_number": 5,
+      "potential_subtitles": [
+        {
+          "page": 5,
+          "position": 4,
+          "section_length": 1,
+          "text": "tos"
+        },
+        {
+          "page": 5,
+          "position": 7,
+          "section_length": 0,
+          "text": "Operational Parameters"
+        }
+      ]
+    },
+    "6": {
+      "font_info": {
+        "average_char_height": 49.060023190962426,
+        "average_char_width": 26.835026791667858,
+        "std_dev_char_height": 16.094513891402812,
+        "std_dev_char_width": 9.163412910430548
+      },
+      "line_count": 29,
+      "line_end": 189,
+      "line_start": 160,
+      "page_number": 6,
+      "potential_subtitles": [
+        {
+          "page": 6,
+          "position": 2,
+          "section_length": 2,
+          "text": "Growth by Market"
+        },
+        {
+          "page": 6,
+          "position": 5,
+          "section_length": 1,
+          "text": "Geography (%)"
+        },
+        {
+          "page": 6,
+          "position": 6,
+          "section_length": 1,
+          "text": "CC Growth"
+        },
+        {
+          "page": 6,
+          "position": 8,
+          "section_length": 3,
+          "text": "Americas"
+        },
+        {
+          "page": 6,
+          "position": 13,
+          "section_length": 2,
+          "text": "Europe"
+        },
+        {
+          "page": 6,
+          "position": 16,
+          "section_length": 1,
+          "text": "Continental"
+        },
+        {
+          "page": 6,
+          "position": 18,
+          "section_length": 2,
+          "text": "Asia Pacific"
+        },
+        {
+          "page": 6,
+          "position": 21,
+          "section_length": 4,
+          "text": "MEA"
+        },
+        {
+          "page": 6,
+          "position": 27,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "7": {
+      "font_info": {
+        "average_char_height": 50.39083251534021,
+        "average_char_width": 25.44478292386586,
+        "std_dev_char_height": 14.51088879985714,
+        "std_dev_char_width": 8.656210843932257
+      },
+      "line_count": 29,
+      "line_end": 219,
+      "line_start": 190,
+      "page_number": 7,
+      "potential_subtitles": [
+        {
+          "page": 7,
+          "position": 2,
+          "section_length": 1,
+          "text": "Growth by Domain"
+        },
+        {
+          "page": 7,
+          "position": 4,
+          "section_length": 1,
+          "text": "Y-o-Y"
+        },
+        {
+          "page": 7,
+          "position": 5,
+          "section_length": 4,
+          "text": "Vertical (%)"
+        },
+        {
+          "page": 7,
+          "position": 13,
+          "section_length": 0,
+          "text": "8.7"
+        },
+        {
+          "page": 7,
+          "position": 13,
+          "section_length": 1,
+          "text": "- 4.0"
+        },
+        {
+          "page": 7,
+          "position": 15,
+          "section_length": 0,
+          "text": "8.4"
+        },
+        {
+          "page": 7,
+          "position": 15,
+          "section_length": 4,
+          "text": "1.8"
+        },
+        {
+          "page": 7,
+          "position": 23,
+          "section_length": 3,
+          "text": "Total"
+        },
+        {
+          "page": 7,
+          "position": 27,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "8": {
+      "font_info": {
+        "average_char_height": 55.57689957580227,
+        "average_char_width": 33.13168717555541,
+        "std_dev_char_height": 15.393485993142448,
+        "std_dev_char_width": 9.496378939416244
+      },
+      "line_count": 24,
+      "line_end": 244,
+      "line_start": 220,
+      "page_number": 8,
+      "potential_subtitles": [
+        {
+          "page": 8,
+          "position": 2,
+          "section_length": 2,
+          "text": "Client Parameters"
+        },
+        {
+          "page": 8,
+          "position": 6,
+          "section_length": 2,
+          "text": "US$"
+        },
+        {
+          "page": 8,
+          "position": 10,
+          "section_length": 1,
+          "text": "US$ 10m+"
+        },
+        {
+          "page": 8,
+          "position": 12,
+          "section_length": 1,
+          "text": "US$ 20m+"
+        },
+        {
+          "page": 8,
+          "position": 14,
+          "section_length": 1,
+          "text": "US$ 50m+"
+        },
+        {
+          "page": 8,
+          "position": 16,
+          "section_length": 4,
+          "text": "US$ 100m+"
+        },
+        {
+          "page": 8,
+          "position": 22,
+          "section_length": 0,
+          "text": "tos"
+        }
+      ]
+    },
+    "9": {
+      "font_info": {
+        "average_char_height": 82.58871240154156,
+        "average_char_width": 52.3912149314929,
+        "std_dev_char_height": 43.51064253864501,
+        "std_dev_char_width": 21.71821864184743
+      },
+      "line_count": 7,
+      "line_end": 252,
+      "line_start": 245,
+      "page_number": 9,
+      "potential_subtitles": [
+        {
+          "page": 9,
+          "position": 3,
+          "section_length": 1,
+          "text": "tos"
+        },
+        {
+          "page": 9,
+          "position": 6,
+          "section_length": 0,
+          "text": "Human Resources"
+        }
+      ]
+    }
+  },
+  "success": true,
+  "full_text_file": "data/output/Quatersdata/Quarter_I_Ended_FY_2025-26_full_text.txt"
+}

@@ -13,6 +13,7 @@ sentence-transformers
 PyPDF2
 pdfplumber
 python-docx
+pymupdf
 
 # Data Science & Visualization
 pandas
@@ -38,8 +39,27 @@ langchain-community
 # HuggingFace
 datasets
 accelerate
+huggingface-hub
 
 # Utilities
 python-dotenv
 tqdm
 typing-extensions
+openpyxl
+xlrd
+
+# FastAPI and Web
+fastapi
+uvicorn
+websockets
+
+# LangChain and AI
+langchain
+langgraph
+crewai
+
+# Database
+mysql-connector-python
+qwen-vl-utils
+llmwhisperer-client
+openai
